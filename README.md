@@ -1,4 +1,4 @@
-##Customer Segmentation using K-Means Clustering
+### Customer Segmentation using K-Means Clustering
 This project demonstrates how to perform unsupervised machine learning to segment customers based on their annual income and spending behavior. It utilizes the K-Means clustering algorithm, the Elbow Method for optimization, and PCA for data visualization.
 
 🚀 Project Overview
@@ -15,7 +15,7 @@ Language: Python (scikit-learn, pandas, matplotlib)
 🛠️ Tech Stack
 Environment: Google Colab
 
-Libraries:
+### Libraries:
 
 pandas (Data Manipulation)
 
